@@ -11,6 +11,11 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+Route::get('/{any?}', function () {
+    return view('index');
 });
+
+// Route::get('/{any?}', fn() => view('index'))->where('any', '.+');

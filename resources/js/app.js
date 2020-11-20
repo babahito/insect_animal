@@ -1,6 +1,8 @@
 import Vue from 'vue'
 // ルーティングの定義をインポートする
 import router from './router'
+// Storeを定義する
+import store from './store'
 // ルートコンポーネントをインポートする
 import App from './App.vue'
 

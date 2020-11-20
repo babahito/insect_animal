@@ -5,3 +5,10 @@ http://localhost:8081/
 
 写真投稿アプリ
 https://www.hypertextcandy.com/vue-laravel-tutorial-setting-up-spa-project
+
+
+ドッカ―停止
+docker-compose stop
+
+ドッカ―再起動
+docker-compose up -d nginx mysql workspace phpmyadmin

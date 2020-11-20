@@ -2,6 +2,9 @@ laravel-mixを起動させるためにnpm run watch-poll
 
 phpmyadmin
 http://localhost:8081/
+mysql
+root
+root
 
 写真投稿アプリ
 https://www.hypertextcandy.com/vue-laravel-tutorial-setting-up-spa-project
